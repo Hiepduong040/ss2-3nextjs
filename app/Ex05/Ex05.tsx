@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./Ex05.scss"
 export default function Ex05() {
    return (
      <div className="backgroup">
