@@ -1,5 +1,5 @@
 import React from 'react'
-import buttonStyles from "./Ex07.module.scss"
+import buttonStyles from "./Ex07.module.css"
 export default function Ex07() {
   return (
     <div className={buttonStyles.container}>
